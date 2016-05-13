@@ -9,6 +9,15 @@
 		"extra":false
 	},
 	{
+		"id":8,
+		"title":"Magic Math",
+		"description":"xxxxx xxxx xxxxxxxxxxxxxx xxxxxxx xxxxxxxx xxxxxxxx.",
+		"caption":"Developed in 201? using ???, CSS and HTML.",
+		"image":"/images/magicmath.png",
+		"link":"http://jasonbutler.com/MagicMath",
+		"extra":false
+	},
+	{
 		"id":2,
 		"title":"Report Catalog",
 		"description":"Web application for documenting, tracking and distributing thousands of reports.",
@@ -40,7 +49,7 @@
 		"title":"QMF2Excel",
 		"description":"Downloads, converts and formats IBM DB2 mainframe data from QMF to MS Excel files.",
 		"caption":"Developed in 2008 using VB.NET.",
-		"image":"http://jasonbutler.com/portfolio/qmf2excel.jpg",
+		"image":"/images/qmf2excel.png",
 		"link":"http://jasonbutler.com/qmf2excel/",
 		"extra":false
 	},

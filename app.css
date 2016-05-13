@@ -26,9 +26,18 @@ figure:hover figcaption {
 
 
 
-.cap-bot:before { bottom: 10px; left: 10px; }
-.cap-bot figcaption { left: 0; bottom: -30%;}
-.cap-bot:hover figcaption { bottom: 0; }
+.cap-bot:before { 
+	bottom: 10px; 
+	left: 10px; 
+
+}
+.cap-bot figcaption {
+	left: 0; 
+	bottom: -30%;
+}
+.cap-bot:hover figcaption {
+	bottom: 0;
+}
 
 .background-reverse {
 		background-color: #3d4e6a;

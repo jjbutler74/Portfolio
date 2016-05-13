@@ -95,7 +95,7 @@ $(document).ready(function() {
 				odd = !odd;
 				projHtml = projHtml + '<figure class="cap-bot">';
 				projHtml = projHtml + '<a href="' + value.link + '">';
-				projHtml = projHtml + '<img class="img-square center-block" src="' + value.image + '" width="325" height="270">';
+				projHtml = projHtml + '<img class="img-square center-block img-thumbnail" src="' + value.image + '" width="325" height="270">';
 				projHtml = projHtml + '</a>';
 				projHtml = projHtml + '<figcaption>' + value.caption + '</figcaption>';
 				projHtml = projHtml + '</figure>';
