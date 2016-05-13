@@ -1,0 +1,66 @@
+{"projects":[
+	{
+		"id":1,
+		"title":"Glad2Cook.com",
+		"description":"Glad2Cook.com is free online grocery list that makes food shopping fast, easy and enjoyable.",
+		"caption":"Developed in 2010 using ASP.NET, C#, AJAX, jQuery, CSS and HTML.",
+		"image":"http://jasonbutler.com/portfolio/g2c.jpg",
+		"link":"http://glad2cook.com/",
+		"extra":false
+	},
+	{
+		"id":2,
+		"title":"Report Catalog",
+		"description":"Web application for documenting, tracking and distributing thousands of reports.",
+		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"image":"http://jasonbutler.com/portfolio/rc.jpg",
+		"link":"http://jasonbutler.com/portfolio/rc/default.htm",
+		"extra":false
+	},
+	{
+		"id":3,
+		"title":" Chartis (AIG) Intranet",
+		"description":"Intranet site with user specific applications and reference/training documentation.",
+		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"image":"http://jasonbutler.com/portfolio/grs.jpg",
+		"link":"http://jasonbutler.com/portfolio/grs/default.htm",
+		"extra":false
+	},
+	{
+		"id":4,
+		"title":"Report Request System",
+		"description":"Web application for creating, tracking and processing detailed report request.",
+		"caption":"Developed for the Chartis Division of AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"image":"http://jasonbutler.com/portfolio/rrs.jpg",
+		"link":"http://jasonbutler.com/portfolio/rrs/default.htm",
+		"extra":false
+	},
+	{
+		"id":5,
+		"title":"QMF2Excel",
+		"description":"Downloads, converts and formats IBM DB2 mainframe data from QMF to MS Excel files.",
+		"caption":"Developed in 2008 using VB.NET.",
+		"image":"http://jasonbutler.com/portfolio/qmf2excel.jpg",
+		"link":"http://jasonbutler.com/qmf2excel/",
+		"extra":false
+	},
+	{
+		"id":6,
+		"title":"Beans Games",
+		"description":"The Beans Games are freeware games intended to help teach letters and spelling in a fun way.",
+		"caption":"Developed mostly in 2008 using VB.NET.",
+		"image":"http://jasonbutler.com/portfolio/beansgames.jpg",
+		"link":"http://beansgames.com/",
+		"extra":true
+	},
+	{
+		"id":7,
+		"title":"G2C Blog",
+		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
+		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"image":"http://jasonbutler.com/portfolio/blog.jpg",
+		"link":"http://jasonbutler.com/g2cblog/",
+		"extra":true
+	}
+]}
+	
