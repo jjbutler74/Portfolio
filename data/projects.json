@@ -1,73 +1,145 @@
 {"projects":[
 	{
 		"id":1,
-		"title":"Glad2Cook.com",
-		"description":"Glad2Cook.com is free online grocery list that makes food shopping fast, easy and enjoyable.",
-		"caption":"Developed in 2010 using ASP.NET, C#, AJAX, jQuery, CSS and HTML.",
-		"image":"http://jasonbutler.com/portfolio/g2c.jpg",
+		"title":"Location Service",
+		"description":"xxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx.",
+		"caption":"Developed in 2015 using ASP.NET, C#, xxx, xxx.",
+		"image":"/images/locationservice.png",
 		"link":"http://glad2cook.com/",
 		"extra":false
 	},
 	{
-		"id":8,
+		"id":2,
 		"title":"Magic Math",
-		"description":"xxxxx xxxx xxxxxxxxxxxxxx xxxxxxx xxxxxxxx xxxxxxxx.",
-		"caption":"Developed in 201? using ???, CSS and HTML.",
+		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
+		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
 		"image":"/images/magicmath.png",
 		"link":"http://jasonbutler.com/MagicMath",
 		"extra":false
 	},
 	{
-		"id":2,
-		"title":"Report Catalog",
-		"description":"Web application for documenting, tracking and distributing thousands of reports.",
-		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
-		"image":"http://jasonbutler.com/portfolio/rc.jpg",
-		"link":"http://jasonbutler.com/portfolio/rc/default.htm",
-		"extra":false
-	},
-	{
 		"id":3,
-		"title":" Chartis (AIG) Intranet",
-		"description":"Intranet site with user specific applications and reference/training documentation.",
-		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
-		"image":"http://jasonbutler.com/portfolio/grs.jpg",
-		"link":"http://jasonbutler.com/portfolio/grs/default.htm",
+		"title":"PDF Worksheet",
+		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
+		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"image":"/images/worksheetpdf.png",
+		"link":"http://jasonbutler.com/MagicMath",
 		"extra":false
 	},
 	{
 		"id":4,
-		"title":"Report Request System",
-		"description":"Web application for creating, tracking and processing detailed report request.",
-		"caption":"Developed for the Chartis Division of AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
-		"image":"http://jasonbutler.com/portfolio/rrs.jpg",
-		"link":"http://jasonbutler.com/portfolio/rrs/default.htm",
+		"title":"Forms Catalog",
+		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
+		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"image":"/images/formscatalog.png",
+		"link":"http://jasonbutler.com/MagicMath",
 		"extra":false
 	},
 	{
 		"id":5,
+		"title":"DTC App",
+		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
+		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"image":"/images/dtc.png",
+		"link":"http://jasonbutler.com/MagicMath",
+		"extra":false
+	},	
+	{
+		"id":6,
+		"title":"OpenApp",
+		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
+		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"image":"/images/openapp.png",
+		"link":"http://jasonbutler.com/MagicMath",
+		"extra":false
+	},
+	{
+		"id":7,
+		"title":"Glad2Cook.com",
+		"description":"Glad2Cook.com is free online grocery list that makes food shopping fast, easy and enjoyable.",
+		"caption":"Developed in 2010 using ASP.NET, C#, AJAX, jQuery, CSS and HTML.",
+		"image":"/images/glad2cook.png",
+		"link":"http://glad2cook.com/",
+		"extra":false
+	},
+	{
+		"id":8,
+		"title":"Report Catalog",
+		"description":"Web application for documenting, tracking and distributing thousands of reports.",
+		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"image":"/images/reportcatalog.png",
+		"link":"http://jasonbutler.com/portfolio/rc/default.htm",
+		"extra":false
+	},
+	{
+		"id":9,
+		"title":" Chartis (AIG) Intranet",
+		"description":"Intranet site with user specific applications and reference/training documentation.",
+		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"image":"/images/chartisintranet.png",
+		"link":"http://jasonbutler.com/portfolio/grs/default.htm",
+		"extra":false
+	},
+	{
+		"id":10,
+		"title":"Report Request System",
+		"description":"Web application for creating, tracking and processing detailed report request.",
+		"caption":"Developed for the Chartis Division of AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"image":"/images/reportrequest.png",
+		"link":"http://jasonbutler.com/portfolio/rrs/default.htm",
+		"extra":true
+	},
+	{
+		"id":11,
 		"title":"QMF2Excel",
 		"description":"Downloads, converts and formats IBM DB2 mainframe data from QMF to MS Excel files.",
 		"caption":"Developed in 2008 using VB.NET.",
 		"image":"/images/qmf2excel.png",
 		"link":"http://jasonbutler.com/qmf2excel/",
-		"extra":false
+		"extra":true
 	},
 	{
-		"id":6,
+		"id":12,
 		"title":"Beans Games",
 		"description":"The Beans Games are freeware games intended to help teach letters and spelling in a fun way.",
 		"caption":"Developed mostly in 2008 using VB.NET.",
-		"image":"http://jasonbutler.com/portfolio/beansgames.jpg",
+		"image":"/images/beanswordgame.png",
 		"link":"http://beansgames.com/",
 		"extra":true
 	},
 	{
-		"id":7,
+		"id":13,
 		"title":"G2C Blog",
 		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
 		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
-		"image":"http://jasonbutler.com/portfolio/blog.jpg",
+		"image":"/images/g2cblog.png",
+		"link":"http://jasonbutler.com/g2cblog/",
+		"extra":true
+	},
+	{
+		"id":14,
+		"title":"Cobb Citizens for Tax Relief",
+		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
+		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"image":"/images/cobbtax.png",
+		"link":"http://jasonbutler.com/g2cblog/",
+		"extra":true
+	},
+	{
+		"id":15,
+		"title":"Dale Ritchey website",
+		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
+		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"image":"/images/daleritchey.png",
+		"link":"http://jasonbutler.com/g2cblog/",
+		"extra":true
+	},
+	{
+		"id":16,
+		"title":"TI 99/4a",
+		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
+		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"image":"/images/ti994a.png",
 		"link":"http://jasonbutler.com/g2cblog/",
 		"extra":true
 	}
