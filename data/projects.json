@@ -1,11 +1,11 @@
 {"projects":[
 	{
 		"id":1,
-		"title":"Location Service",
-		"description":"xxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx.",
+		"title":"Location Services API",
+		"description":"Address lookup, address validation, map generation, territory lookup and more.",
 		"caption":"Developed in 2015 using ASP.NET, C#, xxx, xxx.",
 		"image":"/images/locationservice.png",
-		"link":"http://glad2cook.com/",
+		"link":"/locationservice",
 		"extra":false
 	},
 	{

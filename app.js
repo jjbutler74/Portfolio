@@ -8,7 +8,6 @@ $(document).ready(function() {
 
     // Add smooth scrolling on all links inside the navbar
 	$(".slow-scroll a").on('click', function(event) {
-
         // Prevent default anchor click behavior
         event.preventDefault();
 
@@ -20,7 +19,6 @@ $(document).ready(function() {
         $('html, body').animate({
             scrollTop: $(hash).offset().top
         }, 800, function() {
-
             // Add hash (#) to URL when done scrolling (default click behavior)
             window.location.hash = hash;
         });
