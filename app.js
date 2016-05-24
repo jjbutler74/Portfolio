@@ -98,7 +98,9 @@ $(document).ready(function() {
 				projHtml = projHtml + '<figcaption>' + value.caption + '</figcaption>';
 				projHtml = projHtml + '</figure>';
 				projHtml = projHtml + '<div class="caption portfolio-caption">';
+				projHtml = projHtml + '<a href="' + value.link + '">';
 				projHtml = projHtml + '<h3>' + value.title + '</h3>';
+				projHtml = projHtml + '</a>';
 				projHtml = projHtml + '<p class="hidden-xs">' + value.description + '</p>';
 				projHtml = projHtml + '</div>';
 				projHtml = projHtml + '</div>';

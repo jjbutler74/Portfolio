@@ -3,9 +3,9 @@
 		"id":1,
 		"title":"Location Services API",
 		"description":"Address lookup, address validation, map generation, territory lookup and more.",
-		"caption":"Developed in 2015 using ASP.NET, C#, xxx, xxx.",
+		"caption":"Developed in 2015 using Google's Geocoding API, ASP.NET, C#, Web API, REST, NHibernate and custom caching",
 		"image":"/images/locationservice.png",
-		"link":"/locationservice",
+		"link":"/project.html?name=locationservice",
 		"extra":false
 	},
 	{
@@ -14,43 +14,43 @@
 		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
 		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
 		"image":"/images/magicmath.png",
-		"link":"http://jasonbutler.com/MagicMath",
+		"link":"http://jasonbutler.com/magicmath",
 		"extra":false
 	},
 	{
 		"id":3,
-		"title":"PDF Worksheet",
-		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
-		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"title":"PDF Worksheet API",
+		"description":"Web service that instantly creates a dynamic PDF based on customer data.",
+		"caption":"Developed in 2014 using iTextSharp, ASP.NET, C# and Web API",
 		"image":"/images/worksheetpdf.png",
-		"link":"http://jasonbutler.com/MagicMath",
+		"link":"/project.html?name=pdfworksheet",
 		"extra":false
 	},
 	{
 		"id":4,
 		"title":"Forms Catalog",
-		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
-		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"description":"Real-time form filtering on several dimensions. Includes web based copy to clipboard.",
+		"caption":"Developed in 2012 using C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/formscatalog.png",
-		"link":"http://jasonbutler.com/MagicMath",
+		"link":"/project.html?name=formscatalog",
 		"extra":false
 	},
 	{
 		"id":5,
-		"title":"DTC App",
-		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
-		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"title":"Distance to Coast Tool",
+		"description":"Users can receive precise address to coast measurements for windstorm insurance.",
+		"caption":"Developed in 2012 using Geography Spatial Polygons, C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/dtc.png",
-		"link":"http://jasonbutler.com/MagicMath",
+		"link":"/project.html?name=dtc",
 		"extra":false
 	},	
 	{
 		"id":6,
 		"title":"OpenApp",
-		"description":"Multiplication table quiz with responsive design, uses 100% HTML5 Local Storage.",
-		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"description":"Client application that facilitates the execution of local programs via web links.",
+		"caption":"Developed in 2011 using a custom URI scheme, Windows registry coding and C#",
 		"image":"/images/openapp.png",
-		"link":"http://jasonbutler.com/MagicMath",
+		"link":"/project.html?name=openapp",
 		"extra":false
 	},
 	{
@@ -66,9 +66,9 @@
 		"id":8,
 		"title":"Report Catalog",
 		"description":"Web application for documenting, tracking and distributing thousands of reports.",
-		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"caption":"Developed for AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/reportcatalog.png",
-		"link":"http://jasonbutler.com/portfolio/rc/default.htm",
+		"link":"/project.html?name=reportcatalog",
 		"extra":false
 	},
 	{
@@ -77,16 +77,16 @@
 		"description":"Intranet site with user specific applications and reference/training documentation.",
 		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/chartisintranet.png",
-		"link":"http://jasonbutler.com/portfolio/grs/default.htm",
+		"link":"/project.html?name=chartisintranet",
 		"extra":false
 	},
 	{
 		"id":10,
 		"title":"Report Request System",
 		"description":"Web application for creating, tracking and processing detailed report request.",
-		"caption":"Developed for the Chartis Division of AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
+		"caption":"Developed AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/reportrequest.png",
-		"link":"http://jasonbutler.com/portfolio/rrs/default.htm",
+		"link":"/project.html?name=reportrequest",
 		"extra":true
 	},
 	{
@@ -101,7 +101,7 @@
 	{
 		"id":12,
 		"title":"Beans Games",
-		"description":"The Beans Games are freeware games intended to help teach letters and spelling in a fun way.",
+		"description":"Freeware games intended to help teach letters and spelling in a fun way.",
 		"caption":"Developed mostly in 2008 using VB.NET.",
 		"image":"/images/beanswordgame.png",
 		"link":"http://beansgames.com/",
@@ -109,8 +109,8 @@
 	},
 	{
 		"id":13,
-		"title":"G2C Blog",
-		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
+		"title":"Glad2Cook.com Creation Blog",
+		"description":"Blogging platform, this implementation was for the creation of Glad2Cook.com.",
 		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
 		"image":"/images/g2cblog.png",
 		"link":"http://jasonbutler.com/g2cblog/",
@@ -119,28 +119,28 @@
 	{
 		"id":14,
 		"title":"Cobb Citizens for Tax Relief",
-		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
-		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"description":"Political website for Cobb County (GA) ballot initiative.",
+		"caption":"Developed in 2003 using Classic ASP.NET and HTML.",
 		"image":"/images/cobbtax.png",
-		"link":"http://jasonbutler.com/g2cblog/",
+		"link":"http://jasonbutler.com/portfolio/cobbcitizens/",
 		"extra":true
 	},
 	{
 		"id":15,
 		"title":"Dale Ritchey website",
-		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
-		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"description":"A campaign website for Georgia State House candidate Dale Ritchey.",
+		"caption":"Developed in 2000 using Classic ASP.NET and HTML. Included secure credit card processing, steaming video, volunteer sign-up and back office tools.",
 		"image":"/images/daleritchey.png",
-		"link":"http://jasonbutler.com/g2cblog/",
+		"link":"http://jasonbutler.com/portfolio/daleritchey/",
 		"extra":true
 	},
 	{
 		"id":16,
-		"title":"TI 99/4a",
-		"description":"Blogging platform, this implementation was for a blog about the creation of Glad2Cook.com.",
-		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
+		"title":"Science Fair (Grade 8)",
+		"description":"Presentation on Computers, plus games Galactic Horse Racing and Quest for the Rublen.",
+		"caption":"Developed in 1980s on the Texas Instruments TI-99/4A with TI Extended BASIC.",
 		"image":"/images/ti994a.png",
-		"link":"http://jasonbutler.com/g2cblog/",
+		"link":"https://www.youtube.com/watch?v=ZhzR9g5WY5Q",
 		"extra":true
 	}
 ]}

@@ -1,0 +1,45 @@
+{"details":[
+	{
+		"name":"locationservice",
+		"title":"Location Services API",
+		"screens":[
+			{
+				"image":"/images/locationservice.png",
+				"description":"Address lookup, address validation, map generation, territory lookup and more."
+			},
+			{
+				"image":"/images/formscatalog.png",
+				"description":"Users can receive precise address to coast measurements for windstorm insurance."
+			}
+		]
+	},
+	{
+		"name":"pdfworksheet",
+		"title":"PDF Worksheet API"
+	},
+	{
+		"name":"formscatalog",
+		"title":"Forms Catalog"
+	},
+	{
+		"name":"dtc",
+		"title":"Distance to Coast Tool"
+	},
+	{
+		"name":"openapp",
+		"title":"OpenApp"
+	},
+	{
+		"name":"reportcatalog",
+		"title":"Report Catalog"
+	},
+	{
+		"name":"chartisintranet",
+		"title":"Chartis (AIG) Intranet"
+	},
+	{
+		"name":"reportrequest",
+		"title":"Report Request System"
+	}
+]}
+	
