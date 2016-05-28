@@ -1,12 +1,23 @@
 {"projects":[
 	{
 		"id":1,
+		"name":"locationservice",
 		"title":"Location Services API",
 		"description":"Address lookup, address validation, map generation, territory lookup and more.",
 		"caption":"Developed in 2015 using Google's Geocoding API, ASP.NET, C#, Web API, REST, NHibernate and custom caching",
 		"image":"/images/locationservice.png",
 		"link":"/project.html?name=locationservice",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/locationservice.png",
+				"description":"Address lookup, address validation, map generation, territory lookup and more."
+			},
+			{
+				"image":"/images/formscatalog.png",
+				"description":"Users can receive precise address to coast measurements for windstorm insurance."
+			}
+		]
 	},
 	{
 		"id":2,
@@ -19,6 +30,7 @@
 	},
 	{
 		"id":3,
+		"name":"pdfworksheet",
 		"title":"PDF Worksheet API",
 		"description":"Web service that instantly creates a dynamic PDF based on customer data.",
 		"caption":"Developed in 2014 using iTextSharp, ASP.NET, C# and Web API",
@@ -28,6 +40,7 @@
 	},
 	{
 		"id":4,
+		"name":"formscatalog",
 		"title":"Forms Catalog",
 		"description":"Real-time form filtering on several dimensions. Includes web based copy to clipboard.",
 		"caption":"Developed in 2012 using C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
@@ -37,6 +50,7 @@
 	},
 	{
 		"id":5,
+		"name":"dtc",
 		"title":"Distance to Coast Tool",
 		"description":"Users can receive precise address to coast measurements for windstorm insurance.",
 		"caption":"Developed in 2012 using Geography Spatial Polygons, C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
@@ -46,6 +60,7 @@
 	},	
 	{
 		"id":6,
+		"name":"openapp",
 		"title":"OpenApp",
 		"description":"Client application that facilitates the execution of local programs via web links.",
 		"caption":"Developed in 2011 using a custom URI scheme, Windows registry coding and C#",
@@ -65,6 +80,7 @@
 	{
 		"id":8,
 		"title":"Report Catalog",
+		"name":"reportcatalog",
 		"description":"Web application for documenting, tracking and distributing thousands of reports.",
 		"caption":"Developed for AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/reportcatalog.png",
@@ -73,6 +89,7 @@
 	},
 	{
 		"id":9,
+		"name":"chartisintranet",
 		"title":" Chartis (AIG) Intranet",
 		"description":"Intranet site with user specific applications and reference/training documentation.",
 		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
@@ -82,6 +99,7 @@
 	},
 	{
 		"id":10,
+		"name":"reportrequest",
 		"title":"Report Request System",
 		"description":"Web application for creating, tracking and processing detailed report request.",
 		"caption":"Developed AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",

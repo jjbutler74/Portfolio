@@ -45,8 +45,8 @@ $(document).ready(function() {
 	};
 	
 	// Put Project Details on Screen
-	$.getJSON( "/data/details.json", function(data) {
-		$('#details').append(createDetailHtml(data.details));
+	$.getJSON( "/data/projects.json", function(data) {
+		$('#details').append(createDetailHtml(data.projects));
 	});
 	
 	function createDetailHtml(details) {
