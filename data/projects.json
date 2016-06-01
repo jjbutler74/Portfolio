@@ -10,12 +10,8 @@
 		"extra":false,
 		"screens":[
 			{
-				"image":"/images/locationservice.png",
-				"description":"Address lookup, address validation, map generation, territory lookup and more."
-			},
-			{
-				"image":"/images/formscatalog.png",
-				"description":"Users can receive precise address to coast measurements for windstorm insurance."
+				"image":"/images/locationservice1.jpg",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
 			}
 		]
 	},
@@ -46,7 +42,13 @@
 		"caption":"Developed in 2012 using C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/formscatalog.png",
 		"link":"/project.html?name=formscatalog",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/formscatalog1.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			}
+		]
 	},
 	{
 		"id":5,
@@ -56,7 +58,13 @@
 		"caption":"Developed in 2012 using Geography Spatial Polygons, C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/dtc.png",
 		"link":"/project.html?name=dtc",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/dtc1.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			}
+		]
 	},	
 	{
 		"id":6,
@@ -66,7 +74,25 @@
 		"caption":"Developed in 2011 using a custom URI scheme, Windows registry coding and C#",
 		"image":"/images/openapp.png",
 		"link":"/project.html?name=openapp",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/openapp1.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			},
+						{
+				"image":"/images/openapp2.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			},
+						{
+				"image":"/images/openapp3.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			},
+						{
+				"image":"/images/openapp4.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			}
+		]
 	},
 	{
 		"id":7,
@@ -85,7 +111,22 @@
 		"caption":"Developed for AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/reportcatalog.png",
 		"link":"/project.html?name=reportcatalog",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/rc1.jpg",
+				"description":"The main screen of the Report Catalog displays custom filters and data, based on the users role and settings. From this screen both business users and report developers can track which reports are complete and which reports are due next. The latest report can be accessed directly by clicking on the Last Ran date, allowing business users to do most of their interaction with the system from this one screen."
+			},
+			{
+				"image":"/images/rc2.jpg",
+				"description":"The Report Detail page contains a complete archive of past reports, the initial report request, all report changes, report notes (with auto logging) and detailed run instructions so any report developer can easily recreate any report."
+			},
+			{
+				"image":"/images/rc3.jpg",
+				"description":"On this screen report developers can either upload a file or link to any URL, making almost any type of report available through the system. The Next Due Date is calculated based on the report frequency and number of business days each type of report is due (automatically factoring in weekends and holidays)."
+			}
+		],
+		"final":"The Report Catalog, along with the Report Request System and QMF2Excel has completely changed the way reporting is handed at Chartis Recovery, eliminating many past issues with report creation and distribution – all for a fraction of other quoted partial solutions."
 	},
 	{
 		"id":9,
@@ -95,7 +136,29 @@
 		"caption":"Developed for the Chartis Division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/chartisintranet.png",
 		"link":"/project.html?name=chartisintranet",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/grs1.jpg",
+				"description":"Intranet home page for the Recovery Division of Chartis Insurance. Developed using master pages and CSS to provide a consistent layout and a complete framework.</br></br>The entire site was built from the ground up on an existing file server. Tech specs: Windows Server 2003, IIS 6 and SQL Server 2005."
+			},
+			{
+				"image":"/images/grs2.jpg",
+				"description":"On the Applications page users are logged in automatically based on their LAN Id, with only the applications available to them displayed."
+			},
+			{
+				"image":"/images/grs3.jpg",
+				"description":"All reference and training documentation for Chartis Recovery is available world wide on the documentation page."
+			},
+			{
+				"image":"/images/grs4.jpg",
+				"description":"Documentation administrators can add, edit or update any document. This method of document management and reference has made it much easier and efficient for everyone involved."
+			},
+			{
+				"image":"/images/grs5.jpg",
+				"description":"Control of the entire web site is available to administrators from this page, so the site and all applications can be maintained without any backend work (database or code changes)."
+			}
+		]
 	},
 	{
 		"id":10,
@@ -105,7 +168,23 @@
 		"caption":"Developed AIG Insurance in 2008 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/reportrequest.png",
 		"link":"/project.html?name=reportrequest",
-		"extra":true
+		"extra":true,
+		"screens":[
+			{
+				"image":"/images/rrs1.jpg",
+				"description":"This is the main page of the Report Request System, users have a custom view of this screen only showing request that they have potential actions on."
+			},
+			{
+				"image":"/images/rrs2.jpg",
+				"description":"The Create a New Report Request screen has comprehensive validation to ensure all request are submitted with sufficient and accurate information. Report request on existing reports automatically populate most fields, so users can quickly submit report changes."
+			},
+			{
+				"image":"/images/rrs3.jpg",
+				"description":"On the Request Detail page, status changes and notes can be updated based on the request status and the users’ role. By utilizing CSS capabilities, print friendly page can be printed directly from this page (no need for a print friendly link)."
+			}
+		],
+		"final":"One of the most appreciated features of the system is the automated email system. Based on the users’ role (Requestor, Approver, Developer, etc) and the status of the request, custom emails are sent out instructing the appropriate users of the next steps required (along with direct web links) to complete the tasks."
+		
 	},
 	{
 		"id":11,

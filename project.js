@@ -54,13 +54,37 @@ $(document).ready(function() {
 		$.each( details, function( key, value ) {
 			if (value.name == projectName)
 			{
+				detailHtml = detailHtml + '<div class="project-details">';
+
+				
 				detailHtml = detailHtml + '<h1>' + value.title + '</h1>';
+				detailHtml = detailHtml + '<h3 class="hidden-xs">' + value.description + '</h3>';
+				
+				detailHtml = detailHtml + '<div class="line-thin"></div>';
+				
+				detailHtml = detailHtml + '<h4 class="hidden-xs">' + value.caption + '</h4>';
+				
+				
 				$.each( value.screens, function( key2, value2 ) {
-					detailHtml = detailHtml + '<img class="img-square center-block img-thumbnail" src="' + value2.image + '">';
-					detailHtml = detailHtml + '<h3>' + value2.description + '</h3>';
+					detailHtml = detailHtml + '<div class="row margin-top-20">';
+					
+					detailHtml = detailHtml + '<div class="col-md-9 col-md-push-3">'
+					detailHtml = detailHtml + '<img class="center-block img-responsive" src="' + value2.image + '">';
+					detailHtml = detailHtml + '</div>';
+					
+					detailHtml = detailHtml + '<div class="col-md-3 col-md-pull-9">'
+					detailHtml = detailHtml + '<p>' + value2.description + '</p>';
+					detailHtml = detailHtml + '</div>';
+					
+					detailHtml = detailHtml + '</div>';
 				});
 				
+				if (value.final != undefined)
+				{
+					detailHtml = detailHtml + '<p>' + value.final + '</p>';
+				}
 				
+				detailHtml = detailHtml + '</div>';
 				
 			}
 		});

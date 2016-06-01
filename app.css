@@ -6,6 +6,10 @@ body {
     margin-bottom: 0px;
 }
 
+.img-responsive { 
+	width:100%; 
+}
+
 .navbar-inner {
 	margin-left: 2.0em;
     margin-right: 2.0em;
@@ -122,6 +126,24 @@ figure:hover figcaption {
 	bottom: 0;
 }
 
+.nounderline:hover {
+	text-decoration: none
+}
+
+.line {
+	background-color: #DDDDDD; 
+	height: 3px; 
+	margin: 2em 0; 
+	width: 100%;
+}
+
+.line-thin {
+	background-color: #DDDDDD;
+	height: 2px;
+	margin: 0; 
+	width: 100%;"	
+}
+
 .background-reverse {
 	background-color: #3d4e6a;
     color: white;
@@ -203,6 +225,16 @@ figure:hover figcaption {
     color: rgba(0, 0, 0, 0.1);
 }
 
+/* Project Details */
+.project-details h1 {
+	color: #337ab7;
+}
+
+.project-details h4 {
+	color: #666666;
+}
+
+
 /* Extra small devices (phones, up to 480px) */
 @media screen and (max-width: 767px) {
     .portfolio-caption p {
@@ -212,6 +244,11 @@ figure:hover figcaption {
     .portfolio-caption h3 {
         text-align: center;
     }
+	
+	.project-details p {
+		margin-top: 1.0em;
+		font-size: 1.0em;
+	}
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -227,13 +264,18 @@ figure:hover figcaption {
         text-align: left;
     }
 	
-		.carousel-content {
+	.carousel-content {
 		font-size: .8em;
 	}
 	.carousel-content h3{
 		font-size: 1.4em;
 	}
 	
+	.project-details p {
+		margin-top: 1.0em;
+		font-size: 1.0em;
+	}
+
 }
 
 /* tablets/desktops and up  */
@@ -253,6 +295,11 @@ figure:hover figcaption {
 	.carousel-content h3{
 		font-size: 1.6em;
 	}
+		
+	.project-details p {
+		margin-top: 3.0em;
+		font-size: 1.2em;
+	}
 }
 
 /* large desktops and up  */
@@ -265,4 +312,9 @@ figure:hover figcaption {
         font-size: 1.2em;
         text-align: left;
     }
+	
+	.project-details p {
+		margin-top: 3.0em;
+		font-size: 1.2em;
+	}
 }
