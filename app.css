@@ -60,6 +60,9 @@ body {
 	margin-top: 9vw;
 }
 
+.margin-top-10 {
+	margin-top: 1.0em;
+}
 .margin-top-20 {
 	margin-top: 2.0em;
 }
@@ -228,12 +231,28 @@ figure:hover figcaption {
 /* Project Details */
 .project-details h1 {
 	color: #337ab7;
+	font-size: 2.75em;
 }
 
 .project-details h4 {
-	color: #666666;
+	color: #000000;
+	font-size: 1.75em; 
 }
 
+.project-details h4 {
+	color: #999999;
+	font-size: 1.5em; 
+}
+
+#pagefooter p {
+	margin-top: 1.0em;
+	margin-left: 1.0em;
+}
+
+#pagefooter a {
+	text-decoration: none;
+	color: black;
+}
 
 /* Extra small devices (phones, up to 480px) */
 @media screen and (max-width: 767px) {
