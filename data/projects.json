@@ -4,14 +4,14 @@
 		"name":"locationservice",
 		"title":"Location Services API",
 		"description":"Address lookup, address validation, map generation, territory lookup and more.",
-		"caption":"Developed in 2015 using Google's Geocoding API, ASP.NET, C#, Web API, REST, NHibernate and custom caching",
+		"caption":"Developed in 2013-2016 using Google's Geocoding API, ASP.NET, C#, Web API, REST, NHibernate and custom caching",
 		"image":"/images/locationservice.png",
 		"link":"/project.html?name=locationservice",
 		"extra":false,
 		"screens":[
 			{
 				"image":"/images/locationservice1.jpg",
-				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+				"description":"A suite of easy to implement location services primarily based on Google’s Map APIs.</br></br>Services includes single line address search, location validation, map generation, distance to coast measurements, ISO territory lookup, wind coverage zone lookup and building characteristic details.</br></br>The main engine of the Location Service works around many of Google’s limitation, including number of request, incomplete data and misidentified match status.</br></br>This project has required successful on going communications and negotiations with Google to work out technical details and cost."
 			}
 		]
 	},
@@ -32,7 +32,25 @@
 		"caption":"Developed in 2014 using iTextSharp, ASP.NET, C# and Web API",
 		"image":"/images/worksheetpdf.png",
 		"link":"/project.html?name=pdfworksheet",
-		"extra":false
+		"extra":false,
+		"screens":[
+			{
+				"image":"/images/ws1.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			},
+						{
+				"image":"/images/ws2.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			},
+						{
+				"image":"/images/ws3.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			},
+						{
+				"image":"/images/ws4.png",
+				"description":"xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx"
+			}
+		]
 	},
 	{
 		"id":4,
