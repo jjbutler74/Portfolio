@@ -62,14 +62,15 @@ $(document).ready(function() {
 				detailHtml = detailHtml + '<h4 class="hidden-xs">' + value.caption + '</h4>';
 				detailHtml = detailHtml + '</div>';
 				
+				detailHtml = detailHtml + '<div class="wow fadeIn">';
 				$.each( value.screens, function( key2, value2 ) {
 					detailHtml = detailHtml + '<div class="row margin-top-20">';
 					
-					detailHtml = detailHtml + '<div class="col-md-9 col-md-push-3 wow fadeInRight">'
+					detailHtml = detailHtml + '<div class="col-md-9 col-md-push-3">'
 					detailHtml = detailHtml + '<img class="center-block img-responsive" src="' + value2.image + '">';
 					detailHtml = detailHtml + '</div>';
 					
-					detailHtml = detailHtml + '<div class="col-md-3 col-md-pull-9 wow fadeInLeft">'
+					detailHtml = detailHtml + '<div class="col-md-3 col-md-pull-9">'
 					detailHtml = detailHtml + '<p>' + value2.description + '</p>';
 					detailHtml = detailHtml + '</div>';
 					
@@ -77,8 +78,9 @@ $(document).ready(function() {
 				});
 				if (value.final != undefined)
 				{
-					detailHtml = detailHtml + '<p class="wow fadeInUp">' + value.final + '</p>';
+					detailHtml = detailHtml + '<p>' + value.final + '</p>';
 				}
+				detailHtml = detailHtml + '</div>';
 				detailHtml = detailHtml + '</div>';
 			}
 		});
