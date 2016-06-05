@@ -91,6 +91,9 @@ $(document).ready(function() {
 					projHtml = projHtml + '<div class="col-xs-12 col-md-5 col-lg-4 text-center margin-top-20">'
 				};
 				odd = !odd;
+				projHtml = projHtml + '<a href="' + value.link + '" class="nounderline">';
+				projHtml = projHtml + '<h3>' + value.title + '</h3>';
+				projHtml = projHtml + '</a>';
 				projHtml = projHtml + '<a href="' + value.link + '">';
 				projHtml = projHtml + '<figure class="cap-bot">';
 				projHtml = projHtml + '<img class="img-square center-block img-thumbnail" src="' + value.image + '" width="325" height="270">';
@@ -98,9 +101,6 @@ $(document).ready(function() {
 				projHtml = projHtml + '</figure>';
 				projHtml = projHtml + '</a>';
 				projHtml = projHtml + '<div class="caption portfolio-caption">';
-				projHtml = projHtml + '<a href="' + value.link + '" class="nounderline">';
-				projHtml = projHtml + '<h3>' + value.title + '</h3>';
-				projHtml = projHtml + '</a>';
 				projHtml = projHtml + '<p class="hidden-xs">' + value.description + '</p>';
 				projHtml = projHtml + '</div>';
 				projHtml = projHtml + '</div>';
