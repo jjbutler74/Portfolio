@@ -54,6 +54,7 @@ $(document).ready(function() {
 		$.each( details, function( key, value ) {
 			if (value.name == projectName)
 			{
+				detailHtml = detailHtml + '<div class="container">'
 				detailHtml = detailHtml + '<div class="project-details">';
 				detailHtml = detailHtml + '<div class="wow fadeInDown">'
 				detailHtml = detailHtml + '<h1>' + value.title + '</h1>';
@@ -82,8 +83,16 @@ $(document).ready(function() {
 				}
 				detailHtml = detailHtml + '</div>';
 				detailHtml = detailHtml + '</div>';
+				detailHtml = detailHtml + '</div>';
 			}
 		});
+		
+		detailHtml = detailHtml + '<div class="margin-top-20">'
+		detailHtml = detailHtml + '<footer id="pagefooter">'
+		detailHtml = detailHtml + '<div class="line-thin"></div>'
+		var year = new Date().getFullYear();
+		detailHtml = detailHtml + '<p><span class="glyphicon glyphicon-copyright-mark"></span>' + year + '</span> <a class="nounderline black" href="http://jasonbutler.com/">Jason Butler</a></p>'
+		detailHtml = detailHtml + '</footer>'
 		return detailHtml;
 	}
 });

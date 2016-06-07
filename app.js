@@ -62,6 +62,7 @@ $(document).ready(function() {
         $(".icon2").delay(400).animate({
             width: 'toggle'
         });
+		
     });
 
 	// Put Projects on Screen
@@ -84,11 +85,11 @@ $(document).ready(function() {
 			if (value.extra == extraProject) {
 				if (odd)
 				{
-					projHtml = projHtml + '<div class="col-xs-12 col-md-5 col-lg-4 text-center margin-top-20 col-md-offset-1 col-lg-offset-0">'
+					projHtml = projHtml + '<div class="col-xs-12 col-md-5 col-lg-4 text-center margin-top-10 col-md-offset-1 col-lg-offset-0">'
 				}
 				else
 				{
-					projHtml = projHtml + '<div class="col-xs-12 col-md-5 col-lg-4 text-center margin-top-20">'
+					projHtml = projHtml + '<div class="col-xs-12 col-md-5 col-lg-4 text-center margin-top-10">'
 				};
 				odd = !odd;
 				projHtml = projHtml + '<a href="' + value.link + '" class="nounderline">';

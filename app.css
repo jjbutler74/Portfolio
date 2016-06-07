@@ -222,6 +222,10 @@ figure:hover figcaption {
 	fill: #18851f;
 }
 
+.hold-height {
+	min-height:: 85px;
+	
+}
 .tiny-text {
     font-size: .6em;
     color: #000; 
