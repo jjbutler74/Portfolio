@@ -52,7 +52,7 @@ $(document).ready(function() {
 	function createDetailHtml(details) {
 		var detailHtml = '';
 		$.each( details, function( key, value ) {
-			if (value.name == projectName)
+			if (value.name == projectName && projectName != null)
 			{
 				detailHtml = detailHtml + '<div class="container">'
 				detailHtml = detailHtml + '<div class="project-details">';
@@ -86,6 +86,12 @@ $(document).ready(function() {
 				detailHtml = detailHtml + '</div>';
 			}
 		});
+
+		if (detailHtml == '')
+		{
+			detailHtml = detailHtml + '<h1>Nothing to see here.</h1>';
+			detailHtml = detailHtml + '<h5>Just click the "jasonbutler.com" link above.</h5>';
+		}
 		
 		detailHtml = detailHtml + '<div class="margin-top-20">'
 		detailHtml = detailHtml + '<footer id="pagefooter">'
