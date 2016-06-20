@@ -242,11 +242,16 @@ figure:hover figcaption {
 }
 
 .project-details h4 {
-	color: #000000;
-	font-size: 1.75em; 
+	color: #999999;
+	font-size: 1.5em; 
 }
 
-.project-details h4 {
+.extra-details h1 {
+	color: #337ab7;
+	font-size: 2.75em;
+}
+
+.extra-details h4 {
 	color: #999999;
 	font-size: 1.5em; 
 }
@@ -281,6 +286,12 @@ figure:hover figcaption {
 		margin: .5em;
 		padding: .5em;
 	}
+	
+	.extra-details h4 {
+		color: #999999;
+		font-size: 1.0em; 
+	}
+	
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -307,6 +318,12 @@ figure:hover figcaption {
 		margin-top: 1.0em;
 		font-size: 1.0em;
 	}
+	
+	.extra-details h4 {
+		color: #999999;
+		font-size: 1.5em; 
+	}
+	
 }
 
 /* tablets/desktops and up  */

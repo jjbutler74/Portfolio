@@ -97,7 +97,7 @@ $(document).ready(function() {
 		detailHtml = detailHtml + '<footer id="pagefooter">'
 		detailHtml = detailHtml + '<div class="line-thin"></div>'
 		var year = new Date().getFullYear();
-		detailHtml = detailHtml + '<p><span class="glyphicon glyphicon-copyright-mark"></span>' + year + '</span> <a class="nounderline black" href="http://jasonbutler.com/">Jason Butler</a></p>'
+		detailHtml = detailHtml + '<p><span class="glyphicon glyphicon-copyright-mark"></span> ' + year + '</span> <a class="nounderline black" href="http://jasonbutler.com/">Jason Butler</a></p>'
 		detailHtml = detailHtml + '</footer>'
 		return detailHtml;
 	}
