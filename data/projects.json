@@ -48,7 +48,7 @@
 		"id":4,
 		"name":"formscatalog",
 		"title":"Forms Catalog",
-		"description":"Real-time form filtering on several dimensions. Includes web based copy to clipboard.",
+		"description":"Real-time filtering on several dimensions. Includes web based copy to clipboard.",
 		"caption":"Developed in 2012 using C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/formscatalog.png",
 		"link":"/project.html?name=formscatalog",
