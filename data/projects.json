@@ -21,7 +21,7 @@
 		"description":"Multiplication table quiz with responsive design, using 100% HTML5 Local Storage.",
 		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
 		"image":"/images/magicmath.png",
-		"link":"http://jasonbutler.com/magicmath",
+		"link":"https://jasonbutler.com/magicmath",
 		"extra":false
 	},
 	{
@@ -206,7 +206,7 @@
 		"description":"Downloads, converts and formats IBM DB2 mainframe data from QMF to MS Excel files.",
 		"caption":"Developed in 2008 using VB.NET.",
 		"image":"/images/qmf2excel.png",
-		"link":"http://jasonbutler.com/qmf2excel/",
+		"link":"https://jasonbutler.com/qmf2excel/",
 		"extra":true
 	},
 	{
@@ -224,7 +224,7 @@
 		"description":"Blogging platform, this implementation was for the creation of Glad2Cook.com.",
 		"caption":"Developed in 2006-2007 using ASP.NET, VB.NET, RSS, CSS and HTML.",
 		"image":"/images/g2cblog.png",
-		"link":"http://jasonbutler.com/g2cblog/",
+		"link":"https://jasonbutler.com/g2cblog/",
 		"extra":true
 	},
 	{
@@ -233,7 +233,7 @@
 		"description":"Political website for Cobb County (GA) ballot initiative.",
 		"caption":"Developed in 2003 using Classic ASP.NET and HTML.",
 		"image":"/images/cobbtax.png",
-		"link":"http://jasonbutler.com/portfolio/cobbcitizens/",
+		"link":"https://jasonbutler.com/portfolio/cobbcitizens/",
 		"extra":true
 	},
 	{
@@ -242,7 +242,7 @@
 		"description":"A campaign website for Georgia State House candidate Dale Ritchey.",
 		"caption":"Developed in 2000 using Classic ASP.NET and HTML. Included secure credit card processing, steaming video, volunteer sign-up and back office tools.",
 		"image":"/images/daleritchey.png",
-		"link":"http://jasonbutler.com/portfolio/daleritchey/",
+		"link":"https://jasonbutler.com/portfolio/daleritchey/",
 		"extra":true
 	},
 	{
