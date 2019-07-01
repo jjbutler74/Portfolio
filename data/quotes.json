@@ -39,5 +39,7 @@
 	{"id":38, "quote":"Jason has been awesome at bringing [new team member] up to speed", "attribute":"Team Lead, Intergen"},
 	{"id":39, "quote":"Jason's done a great job of doing... well... my job!", "attribute":"Team Lead, Intergen"},
 	{"id":40, "quote":"Stepped up and assisted with resolving client issues", "attribute":"Service Delivery Manager, Intergen"},
-	{"id":41, "quote":"Great job looking out for colleagues! #greatteamplayer", "attribute":"Service Delivery Manager, Intergen"}
+	{"id":41, "quote":"Great job looking out for colleagues! #greatteamplayer", "attribute":"Service Delivery Manager, Intergen"},
+	{"id":42, "quote":"done an outstanding job for the last sprint, working super hard under great pressure to get things ready", "attribute":"IT Manager, client of Intergen"},
+	{"id":43, "quote":"We had a great launch in Bangkok and it’s all thanks to the hard work", "attribute":"IT Manager, client of Intergen"}
 ]}
