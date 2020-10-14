@@ -1,22 +1,12 @@
 {"projects":[
 	{
-		"id":20,
+		"id":19,
 		"name":"devops",
 		"title":"DevOps Engineer",
 		"description":"Microsoft Certified: DevOps Engineer Expert.",
 		"caption":"Issued in 2020, certification demonstrates the ability to combine people, process, and technologies to continuously deliver.",
 		"image":"/images/devops.png",
 		"link":"https://www.youracclaim.com/badges/efd55345-be71-49d4-978d-976de322f9fb",
-		"extra":false
-	},
-	{
-		"id":19,
-		"name":"az400",
-		"title":"AZ-400",
-		"description":"AZ-400 Designing and Implementing Microsoft DevOps Solutions.",
-		"caption":"Passed exam AZ-400 in 2020, validating ability to deliver valuable products and services that meet end user needs and business objectives.",
-		"image":"/images/az400.png",
-		"link":"https://www.youracclaim.com/badges/a4e9d24b-33e6-412c-9d2b-02f5752f2197",
 		"extra":false
 	},
 	{
