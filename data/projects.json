@@ -14,7 +14,7 @@
 		"name":"myweekendsleft",
 		"title":"My Weekends Left API",
 		"description":"Live life expectancy API with public Azure DevOps CI/CD project.",
-		"caption":"Developed in 2020 using .NET Core, Terraforms, Azure Pipelines, xUnit test and API versioning.",
+		"caption":"Developed in 2020 using .NET Core 3.1, Terraforms, Azure Pipelines, xUnit, Moq, Fluent Validation and API versioning.",
 		"image":"/images/myweekendsleft.png",
 		"link":"https://github.com/jjbutler74/MyWeekendsLeft",
 		"extra":false
