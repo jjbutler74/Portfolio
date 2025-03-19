@@ -1,5 +1,14 @@
 {"projects":[
 	{
+		"id":20,
+		"title":"Technical Debt in FinTech",
+		"description":"In talk I discuss how we at OMNIMax overcame (most) of our technical debt.",
+		"caption":"All while migrating our apps and architecture from a legacy monolith to modern technical stack.",
+		"image":"/images/techdebt.png",
+		"link":"https://www.youtube.com/watch?v=mKaTk70sRcI",
+		"extra":true
+	},
+	{
 		"id":19,
 		"name":"devops",
 		"title":"DevOps Engineer",
@@ -28,6 +37,15 @@
 		"image":"/images/azuredev.png",
 		"link":"https://learn.microsoft.com/api/credentials/share/en-us/JasonButler-4002/9DAD8E760CAE5756?sharingId=93FA614A6DCFC26D",
 		"extra":false
+	},
+	{
+		"id":21,
+		"title":"Automate Your Stalking",
+		"description":"Talk based on my personal journey with digital maps and location services.",
+		"caption":"Given at the Intergen office in Auckland New Zealand on the November 29th 2019.",
+		"image":"/images/stalking.png",
+		"link":"https://www.youtube.com/watch?v=5GcIi2JaTRg",
+		"extra":true
 	},
 	{
 		"id":1,
