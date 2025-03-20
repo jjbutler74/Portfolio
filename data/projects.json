@@ -190,7 +190,7 @@
 		"caption":"Developed for the Recovery division of AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/chartisintranet.png",
 		"link":"/project.html?name=chartisintranet",
-		"extra":false,
+		"extra":true,
 		"screens":[
 			{
 				"image":"/images/grs1.jpg",
