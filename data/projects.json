@@ -6,7 +6,7 @@
 		"description":"Talk about how we at OMNIMax overcame (most) of our technical debt.",
 		"caption":"While migrating our apps and architecture from a legacy monolith to modern technical stack.",
 		"image":"/images/techdebt.png",
-		"link":"https://www.youtube.com/watch?v=mKaTk70sRcI",
+		"link":"https://www.youtube.com/watch?v=mKaTk70sRcI", 
 		"extra":false
 	},
 	{
