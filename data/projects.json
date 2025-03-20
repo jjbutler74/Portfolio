@@ -2,11 +2,11 @@
 	{
 		"id":20,
 		"title":"Technical Debt in FinTech",
-		"description":"In talk I discuss how we at OMNIMax overcame (most) of our technical debt.",
+		"description":"Talk about how we at OMNIMax overcame (most) of our technical debt.",
 		"caption":"While migrating our apps and architecture from a legacy monolith to modern technical stack.",
 		"image":"/images/techdebt.png",
 		"link":"https://www.youtube.com/watch?v=mKaTk70sRcI",
-		"extra":true
+		"extra":false
 	},
 	{
 		"id":19,
