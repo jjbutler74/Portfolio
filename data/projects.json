@@ -1,9 +1,10 @@
 {"projects":[
 	{
 		"id":20,
+		"name":"techdebt",
 		"title":"Technical Debt in FinTech",
 		"description":"Talk about how we at OMNIMax overcame (most) of our technical debt.",
-		"caption":"While migrating our apps and architecture from a legacy monolith to modern technical stack.", 
+		"caption":"While migrating our apps and architecture from a legacy monolith to modern technical stack.",
 		"image":"/images/techdebt.png",
 		"link":"https://www.youtube.com/watch?v=mKaTk70sRcI",
 		"extra":false
