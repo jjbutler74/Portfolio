@@ -72,7 +72,7 @@
 		"caption":"Developed in 2014 using iTextSharp, ASP.NET, C# and Web API",
 		"image":"/images/worksheetpdf.png",
 		"link":"/project.html?name=pdfworksheet",
-		"extra":false,
+		"extra":true,
 		"screens":[
 			{
 				"image":"/images/ws1.png",
@@ -92,7 +92,7 @@
 		"caption":"Developed in 2012 using C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/formscatalog.png",
 		"link":"/project.html?name=formscatalog",
-		"extra":false,
+		"extra":true,
 		"screens":[
 			{
 				"image":"/images/formscatalog1.png",
@@ -112,7 +112,7 @@
 		"caption":"Developed in 2012 using Geography Spatial Polygons, C#, MVC, JavaScript, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/dtc.png",
 		"link":"/project.html?name=dtc",
-		"extra":false,
+		"extra":true,
 		"screens":[
 			{
 				"image":"/images/dtc1.png",
@@ -128,7 +128,7 @@
 		"caption":"Developed in 2011 using a custom URI scheme, Windows registry coding and C#",
 		"image":"/images/openapp.png",
 		"link":"/project.html?name=openapp",
-		"extra":false,
+		"extra":true,
 		"screens":[
 			{
 				"image":"/images/openapp1.png",
@@ -155,7 +155,7 @@
 		"caption":"Developed in 2010 using ASP.NET, C#, AJAX, jQuery, CSS and HTML.",
 		"image":"/images/glad2cook.png",
 		"link":"http://glad2cook.com/",
-		"extra":false
+		"extra":true
 	},
 	{
 		"id":8,
@@ -165,7 +165,7 @@
 		"caption":"Developed for AIG Insurance in 2009 using ASP.NET, VB.NET, jQuery, CSS and HTML.",
 		"image":"/images/reportcatalog.png",
 		"link":"/project.html?name=reportcatalog",
-		"extra":false,
+		"extra":true,
 		"screens":[
 			{
 				"image":"/images/rc1.jpg",
