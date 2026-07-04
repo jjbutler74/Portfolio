@@ -22,9 +22,9 @@
 	{
 		"id":18,
 		"name":"myweekendsleft",
-		"title":"My Weekends Left API",
-		"description":"Live life expectancy API with public Azure DevOps CI/CD project.",
-		"caption":"Developed in 2020 using .NET Core 3.1, Terraforms, Azure Pipelines, xUnit, Moq, Fluent Validation and API versioning.",
+		"title":"My Weekends Left Website & API",
+		"description":"Live life expectancy Website & API with public DevOps and Test harness",
+		"caption":"Developed by hand in 2020. Major upgrades using Claude Code in 2026.",
 		"image":"/images/myweekendsleft.png",
 		"link":"https://github.com/jjbutler74/MyWeekendsLeft",
 		"extra":false
@@ -59,9 +59,9 @@
 		"id":2,
 		"title":"Magic Math",
 		"description":"Multiplication table quiz with responsive design, using 100% HTML5 Local Storage.",
-		"caption":"Developed in 2014 using JavaScript, AJAX, jQuery, CSS, Bootstrap and HTML.",
+		"caption":"Developed by hand 2014. Upgrades using Claude Code in 2026.",
 		"image":"/images/magicmath.png",
-		"link":"https://jasonbutler.com/magicmath",
+		"link":"https://github.com/jjbutler74/MagicMath",
 		"extra":false
 	},
 	{
@@ -295,4 +295,3 @@
 		"extra":true
 	}
 ]}
-	
